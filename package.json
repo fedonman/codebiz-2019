@@ -1,0 +1,27 @@
+{
+  "name": "codebiz-2019",
+  "version": "0.1.0",
+  "description": "Fitness and nutrition app",
+  "main": "login.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedonman/codebiz-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedonman/codebiz-2019/issues"
+  },
+  "homepage": "https://github.com/fedonman/codebiz-2019#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.7.3",
+    "datatables.net-bs4": "^1.10.19",
+    "jquery": "^3.3.1",
+    "jquery.easing": "^1.4.1"
+  }
+}
