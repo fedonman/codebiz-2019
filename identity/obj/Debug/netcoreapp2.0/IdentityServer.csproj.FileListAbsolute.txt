@@ -1,0 +1,11 @@
+C:\aurelia-identity-server-starter-template\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+C:\aurelia-identity-server-starter-template\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+C:\aurelia-identity-server-starter-template\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+C:\aurelia-identity-server-starter-template\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+C:\aurelia-identity-server-starter-template\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\aurelia-identity-server-starter-template\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojAssemblyReference.cache
+C:\aurelia-identity-server-starter-template\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+C:\aurelia-identity-server-starter-template\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+C:\aurelia-identity-server-starter-template\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+C:\aurelia-identity-server-starter-template\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+C:\aurelia-identity-server-starter-template\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb

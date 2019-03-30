@@ -1,0 +1,11 @@
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.csprojAssemblyReference.cache
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.csproj.CoreCompileInputs.cache
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.AssemblyInfoInputs.cache
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.AssemblyInfo.cs
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.deps.json
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.runtimeconfig.json
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.runtimeconfig.dev.json
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.dll
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\bin\Debug\netcoreapp2.0\QuickstartIdentityServer.pdb
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.dll
+C:\IdentityServer4.Samples\Quickstarts\7_JavaScriptClient\src\QuickstartIdentityServer\obj\Debug\netcoreapp2.0\QuickstartIdentityServer.pdb
